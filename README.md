@@ -43,7 +43,6 @@ A bike-sharing system is a service in which bikes are made available for shared 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by "*A US based bike-sharing provider BoomBikes* "
-- References if any...
 - This project was based on [this tutorial](https://www.investopedia.com/terms/m/mlr.asp#:~:text=Key%20Takeaways-,Multiple%20linear%20regression%20(MLR)%2C%20also%20known%20simply%20as%20multiple,uses%20just%20one%20explanatory%20variable.).
 
 
