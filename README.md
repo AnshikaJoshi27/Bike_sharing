@@ -1,5 +1,5 @@
 # Bike Sharing Assignment 
-> Build a Linear Regression model to find the variables affecting significantly on bike renting.
+> Build a Multiple Linear Regression model to find the variables affecting significantly on bike renting.
 
 
 ## Problem Statement:
